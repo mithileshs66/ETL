@@ -1,6 +1,10 @@
 # ETL
 ETLDesign
 
+Note:
+I have made use of AWS Cloud service for this ELT task.
+
+
 How long did it take you to complete this assignment?
 Ans - It Took me around 3hrs for analying the  efficient , cost effective and easy to implement solution.
 
